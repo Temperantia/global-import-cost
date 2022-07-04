@@ -15,3 +15,7 @@ If you have any requirements or dependencies, add a section describing those and
 ### 0.0.1
 
 Alpha version
+
+### 0.0.2
+
+Use a queue resolver
