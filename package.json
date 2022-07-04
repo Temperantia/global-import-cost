@@ -13,6 +13,9 @@
     "onLanguage:json"
   ],
   "repository": "https://github.com/Temperantia/global-import-cost",
+  "author": "Alexandre Du Lorier",
+  "license": "MIT",
+  "publisher": "AlexandreDuLorier",
   "main": "./out/extension.js",
   "scripts": {
     "vscode:prepublish": "yarn run compile",
