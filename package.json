@@ -12,15 +12,8 @@
   "activationEvents": [
     "onLanguage:json"
   ],
+  "repository": "https://github.com/Temperantia/global-import-cost",
   "main": "./out/extension.js",
-  "contributes": {
-    "commands": [
-      {
-        "command": "global-import-cost.helloWorld",
-        "title": "Hello World"
-      }
-    ]
-  },
   "scripts": {
     "vscode:prepublish": "yarn run compile",
     "compile": "tsc -p ./",
